@@ -44,7 +44,7 @@ Built in **Power BI** with **6 KPIs across 2 pages**, the report highlights supp
 ---
 
 ## How to Use
-1. Download the `.pbix` file. [#](https://github.com/SudattaRoy13/Business-Optimization/blob/main/Data%20Visualization%20for%20Business.pbix)
+1. Download the [`.pbix` file.](https://github.com/SudattaRoy13/Business-Optimization/blob/main/Data%20Visualization%20for%20Business.pbix)
 2. Open in **Power BI Desktop**.  
 3. Explore **2 interactive pages of KPIs & visuals**.  
 
