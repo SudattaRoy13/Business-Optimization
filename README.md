@@ -54,4 +54,4 @@ Built in **Power BI** with **6 KPIs across 2 pages**, the report highlights supp
 ## Author
 **Sudatta Roy**  
 *Data Analyst | Power BI Enthusiast*  
-🔗 [LinkedIn](www.linkedin.com/in/sudatta-roy-261540262) | [GitHub](https://github.com/SudattaRoy13)
+🔗 [LinkedIn](https://www.linkedin.com/in/sudatta-roy-261540262) | [GitHub](https://github.com/SudattaRoy13)
